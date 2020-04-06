@@ -24,3 +24,6 @@ CREATE TABLE Orders
 
 Source Code: http://abctutorial.com/Post/35/mvc-5-master-details-using-jquery-ajax
 
+- List 
+![masterdeail](https://user-images.githubusercontent.com/42701669/78566198-121c1f00-7849-11ea-8879-c1abd6ca606b.PNG)
+
