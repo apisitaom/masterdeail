@@ -27,3 +27,6 @@ Source Code: http://abctutorial.com/Post/35/mvc-5-master-details-using-jquery-aj
 - List 
 ![masterdeail](https://user-images.githubusercontent.com/42701669/78566198-121c1f00-7849-11ea-8879-c1abd6ca606b.PNG)
 
+- Add
+![masterdeail_2](https://user-images.githubusercontent.com/42701669/78566304-38da5580-7849-11ea-81a4-451e6f28faa8.PNG)
+
